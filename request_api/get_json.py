@@ -23,6 +23,6 @@ def get_transaction(reference_no, token):
 
 
 if __name__ == "__main__":
-    reference_no = "e5867396-e509-49c0-a1c0-c5f2a2b7a049"
-    token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzdHJpbmciLCJleHAiOjE3Mzk2OTQ0MTd9.ZRp8NckTWycsJTtFJmOe3DFkIJL7S1UhKfKsIqa_8Ow"
+    reference_no = "Enter Ref No"
+    token = "Enter Token"
     get_transaction(reference_no, token)
