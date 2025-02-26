@@ -16,5 +16,5 @@ def post_data(token):
     print(response.text)
 
 if __name__ == "__main__":
-    token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzdHJpbmciLCJleHAiOjE3Mzk2OTI5NTh9.QuXsTIBvwwdJ7zGF4i9XDQS8e0t0HWVnBIHferBX_kA"
+    token = "use your token"
     post_data(token)
